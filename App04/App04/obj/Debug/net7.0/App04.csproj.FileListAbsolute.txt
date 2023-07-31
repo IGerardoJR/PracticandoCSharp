@@ -1,0 +1,15 @@
+E:\Visual Studio\App04\App04\bin\Debug\net7.0\App04.exe
+E:\Visual Studio\App04\App04\bin\Debug\net7.0\App04.deps.json
+E:\Visual Studio\App04\App04\bin\Debug\net7.0\App04.runtimeconfig.json
+E:\Visual Studio\App04\App04\bin\Debug\net7.0\App04.dll
+E:\Visual Studio\App04\App04\bin\Debug\net7.0\App04.pdb
+E:\Visual Studio\App04\App04\obj\Debug\net7.0\App04.csproj.AssemblyReference.cache
+E:\Visual Studio\App04\App04\obj\Debug\net7.0\App04.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio\App04\App04\obj\Debug\net7.0\App04.AssemblyInfoInputs.cache
+E:\Visual Studio\App04\App04\obj\Debug\net7.0\App04.AssemblyInfo.cs
+E:\Visual Studio\App04\App04\obj\Debug\net7.0\App04.csproj.CoreCompileInputs.cache
+E:\Visual Studio\App04\App04\obj\Debug\net7.0\App04.dll
+E:\Visual Studio\App04\App04\obj\Debug\net7.0\refint\App04.dll
+E:\Visual Studio\App04\App04\obj\Debug\net7.0\App04.pdb
+E:\Visual Studio\App04\App04\obj\Debug\net7.0\App04.genruntimeconfig.cache
+E:\Visual Studio\App04\App04\obj\Debug\net7.0\ref\App04.dll

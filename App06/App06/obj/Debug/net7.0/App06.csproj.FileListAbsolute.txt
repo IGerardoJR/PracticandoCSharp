@@ -1,0 +1,15 @@
+E:\Visual Studio\App06\App06\bin\Debug\net7.0\App06.exe
+E:\Visual Studio\App06\App06\bin\Debug\net7.0\App06.deps.json
+E:\Visual Studio\App06\App06\bin\Debug\net7.0\App06.runtimeconfig.json
+E:\Visual Studio\App06\App06\bin\Debug\net7.0\App06.dll
+E:\Visual Studio\App06\App06\bin\Debug\net7.0\App06.pdb
+E:\Visual Studio\App06\App06\obj\Debug\net7.0\App06.csproj.AssemblyReference.cache
+E:\Visual Studio\App06\App06\obj\Debug\net7.0\App06.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio\App06\App06\obj\Debug\net7.0\App06.AssemblyInfoInputs.cache
+E:\Visual Studio\App06\App06\obj\Debug\net7.0\App06.AssemblyInfo.cs
+E:\Visual Studio\App06\App06\obj\Debug\net7.0\App06.csproj.CoreCompileInputs.cache
+E:\Visual Studio\App06\App06\obj\Debug\net7.0\App06.dll
+E:\Visual Studio\App06\App06\obj\Debug\net7.0\refint\App06.dll
+E:\Visual Studio\App06\App06\obj\Debug\net7.0\App06.pdb
+E:\Visual Studio\App06\App06\obj\Debug\net7.0\App06.genruntimeconfig.cache
+E:\Visual Studio\App06\App06\obj\Debug\net7.0\ref\App06.dll

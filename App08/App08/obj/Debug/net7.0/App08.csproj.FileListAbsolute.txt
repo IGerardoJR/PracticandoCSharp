@@ -1,0 +1,15 @@
+E:\Visual Studio\App08\App08\bin\Debug\net7.0\App08.exe
+E:\Visual Studio\App08\App08\bin\Debug\net7.0\App08.deps.json
+E:\Visual Studio\App08\App08\bin\Debug\net7.0\App08.runtimeconfig.json
+E:\Visual Studio\App08\App08\bin\Debug\net7.0\App08.dll
+E:\Visual Studio\App08\App08\bin\Debug\net7.0\App08.pdb
+E:\Visual Studio\App08\App08\obj\Debug\net7.0\App08.csproj.AssemblyReference.cache
+E:\Visual Studio\App08\App08\obj\Debug\net7.0\App08.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio\App08\App08\obj\Debug\net7.0\App08.AssemblyInfoInputs.cache
+E:\Visual Studio\App08\App08\obj\Debug\net7.0\App08.AssemblyInfo.cs
+E:\Visual Studio\App08\App08\obj\Debug\net7.0\App08.csproj.CoreCompileInputs.cache
+E:\Visual Studio\App08\App08\obj\Debug\net7.0\App08.dll
+E:\Visual Studio\App08\App08\obj\Debug\net7.0\refint\App08.dll
+E:\Visual Studio\App08\App08\obj\Debug\net7.0\App08.pdb
+E:\Visual Studio\App08\App08\obj\Debug\net7.0\App08.genruntimeconfig.cache
+E:\Visual Studio\App08\App08\obj\Debug\net7.0\ref\App08.dll
